@@ -1,9 +1,7 @@
 ---
-title: Test
-layout: post
 ---
 
 
-###Hello world
+# Hello world
 
 Hi

@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Kyle Bavis",
+    "label": "Higher Ed System Administrator",
+    "picture": "",
+    "email": "kyle [at] bavis.org",
+    "website": "bavis.org",
+    "summary": "",
+    "location": {
+      "city": "Bloomington",
+      "countryCode": "US",
+      "region": "Indiana"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kylebavis",
+        "url": "linkedin.com/kylebavis"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Indiana University",
+      "position": "Data Systems Administrator",
+      "website": "https://iu.edu",
+      "startDate": "September 2017",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Configure and maintain web applications, internal databases, electronic access control, student meal plans, retail/food service Point-of-Sale, and related systems that support the University's auxiliary operations",
+        "Plan and supervise the implementation of new IT systems for University housing and dining units",
+        "Perform high-level technical analysis, assess application deficiencies, and refine technical and business processes to ensure adherence to best practices",
+        "Extract and analyze data from institutional systems to inform decisions by unit leaders",
+        "Provide leadership to technical staff by prioritizing work based on student service and business priorities",
+        "Automate labor-intensive and/or error-prone tasks using scripting and SharePoint-based workflow tools for both technical staff and for client units"
+      ]
+    },
+    {
+      "company": "Indiana University",
+      "position": "Associate Application Administrator",
+      "website": "https://iu.edu",
+      "startDate": "August 2016",
+      "endDate": "September 2017",
+      "summary": "",
+      "highlights": [
+        "Provided day-to-day technical support for internally-developed applications, vended systems, and a SharePoint-based intranet",
+        "Configured electronic access control permissions for residential and dining facilities",
+        "Managed user access to departmental systems through the lifecycle of employment"
+      ]
+    },
+    {
+      "company": "Indiana University",
+      "position": "Assistant Residence Manager",
+      "website": "https://iu.edu",
+      "startDate": "June 2014",
+      "endDate": "August 2016",
+      "summary": "",
+      "highlights": [
+        "Selected, trained, and supervised a team of undergraduate student employees who provided front-line services to resident students",
+        "Developed policies and procedures to ensure 24/7 maintenance of hall community and critical operations",
+        "Addressed a wide range of student behavioral and adjustment issues via the student conduct process and other intervention methods"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indiana University",
+      "area": "Higher Education and Student Affairs",
+      "studyType": "M.S.Ed",
+      "startDate": "2012",
+      "endDate": "2014"
+    },
+    {
+      "institution": "Towson University",
+      "area": "Economics/Anthropology",
+      "studyType": "B.S.",
+      "startDate": "2008",
+      "endDate": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Automation/Scripting",
+      "level": "",
+      "keywords": [
+        "PowerShell",
+        "K2 Appit",
+        "Nintex Workflow"
+      ]
+    },
+    {
+      "name": "CBORD Products",
+      "level": "",
+      "keywords": [
+        "CS Gold",
+        "Odyssey HMS",
+        "Odyssey PCS",
+        "Food Service Suite"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "level": "",
+      "keywords": [
+        "Oracle Hospitality Simphony",
+        "SharePoint",
+        "Atlassian JIRA & Confluence"
+      ]
+    }
+  ],
+}

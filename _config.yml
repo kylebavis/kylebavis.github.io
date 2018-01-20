@@ -1,2 +1,7 @@
-theme: jekyll-theme-minimal
-title: Kyle Bavis
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+url: https://bavis.org
+title: bavis.org
+twitter_username: kylebavis
+author:
+ name: Kyle Bavis
+ twitter: kylebavis

@@ -13,9 +13,9 @@ I've spent my career in various higher education roles, most recently in Informa
 ## Internet Presence
 
 * [LinkedIn](www.linkedin.com/in/kylebavis)
-* [Twitter](twitter.com/kylebavis)
-* [keybase](keybase.io/kylebavis)
-* [tumblr](tumblr.com/kylebavis)
+* [Twitter](https://twitter.com/kylebavis)
+* [keybase](https://keybase.io/kylebavis)
+* [tumblr](https://tumblr.com/kylebavis)
 
 ## Say hello
 kyle [at] bavis.org

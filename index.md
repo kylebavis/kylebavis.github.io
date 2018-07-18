@@ -6,9 +6,16 @@ author:
   picture: images/Bavis.jpg
 ---
 
-I'm a Baltimore expat living in Indiana. 
+I'm a Baltimore expat living in Indiana.
 
-I've spent my career in various higher education roles, most recently in Information Technology. My professional experience also includes facility management, residence life, and conference services.
+I work in higher education IT. I specialize in systems supporting auxiliary operations, including:
+
+* Student housing
+* Dining services
+* Card systems/access control
+* Point-of-sale
+
+I also work with SharePoint, PowerShell, and SCCM.
 
 ## Internet Presence
 

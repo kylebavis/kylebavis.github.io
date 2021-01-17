@@ -21,11 +21,22 @@
   },
   "work": [
     {
+      "company" : "Indiana University",
+      "position": "Principal Systems Administrator",
+      "website":"https://iu.edu",
+      "startDate":"2020",
+      "endDate": "Present",
+      "summary":"",
+      "highlights": [
+        ""
+      ]
+    },
+    {
       "company": "Indiana University",
       "position": "Senior AppAdmin Systems Administrator",
       "website": "https://iu.edu",
-      "startDate": "September 2017",
-      "endDate": "Present",
+      "startDate": "2017",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
         "Configure and maintain web applications, internal databases, electronic access control, student meal plans, retail/food service Point-of-Sale, and related systems that support the University's auxiliary operations",
@@ -40,8 +51,8 @@
       "company": "Indiana University",
       "position": "Associate Application Administrator",
       "website": "https://iu.edu",
-      "startDate": "August 2016",
-      "endDate": "September 2017",
+      "startDate": "2016",
+      "endDate": "2017",
       "summary": "",
       "highlights": [
         "Provided day-to-day technical support for internally-developed applications, vended systems, and a SharePoint-based intranet",
@@ -53,8 +64,8 @@
       "company": "Indiana University",
       "position": "Assistant Residence Manager",
       "website": "https://iu.edu",
-      "startDate": "June 2014",
-      "endDate": "August 2016",
+      "startDate": "2014",
+      "endDate": "2016",
       "summary": "",
       "highlights": [
         "Selected, trained, and supervised a team of undergraduate student employees who provided front-line services to resident students",

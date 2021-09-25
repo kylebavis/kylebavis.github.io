@@ -1,0 +1,4 @@
+baseURL = 'http://bavis.org/'
+languageCode = 'en-us'
+title = 'Kyle Bavis'
+theme = 'hello-friend-ng'

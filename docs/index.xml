@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyle Bavis</title>
-    <link>http://bavis.org/</link>
+    <link>https://bavis.org/</link>
     <description>Recent content on Kyle Bavis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://bavis.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://bavis.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://bavis.org/</link>
+      <title>Kyle Bavis</title>
+      <link>https://bavis.org/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bavis.org/</guid>
-      <description>Home I&amp;rsquo;m a Baltimore expat living in Indiana.
-Internet Presence  LinkedIn Twitter Github  Say hello kyle [at] bavis.org</description>
+      <guid>https://bavis.org/</guid>
+      <description>I&amp;rsquo;m a Baltimore expat living in Indiana.
+Internet Presence  LinkedIn Twitter Github  If you are looking for Lauren Bavis, click here
+Say hello kyle [at] bavis.org</description>
     </item>
     
   </channel>

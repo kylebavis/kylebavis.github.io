@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://bavis.org/</loc>
+    <loc>https://bavis.org/categories/</loc>
   </url><url>
-    <loc>http://bavis.org/categories/</loc>
+    <loc>https://bavis.org/</loc>
   </url><url>
-    <loc>http://bavis.org/</loc>
+    <loc>https://bavis.org/</loc>
   </url><url>
-    <loc>http://bavis.org/tags/</loc>
+    <loc>https://bavis.org/tags/</loc>
   </url>
 </urlset>

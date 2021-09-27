@@ -4,8 +4,10 @@
 
 # baseURL = "https://your_domain.com/"
 theme = 'congo'
+publishDir = 'docs'
 languageCode = "en"
 defaultContentLanguage = "en"
+
 
 title = "Kyle Bavis"
 # copyright = "Copy, _right?_ :thinking_face:"

@@ -1,80 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>blog on Kyle Bavis</title>
-        <link>https://bavis.org/posts/</link>
-        <description>Recent content in blog on Kyle Bavis</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://bavis.org/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Nuclear Weapons and International Stability</title>
-            <link>https://bavis.org/posts/nuclear-weapons/</link>
-            <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://bavis.org/posts/nuclear-weapons/</guid>
-            <description>I recommend reading Eric Schlosser&amp;rsquo;s Command and Control, but if you don&amp;rsquo;t have time for that, this series of videos from the William J Perry Project is about as sobering:
+  <channel>
+    <title>blog on </title>
+    <link>https://bavis.org/posts/</link>
+    <description>Recent content in blog on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bavis.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuclear Weapons and International Stability</title>
+      <link>https://bavis.org/posts/nuclear-weapons/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bavis.org/posts/nuclear-weapons/</guid>
+      <description>I recommend reading Eric Schlosser&amp;rsquo;s Command and Control, but if you don&amp;rsquo;t have time for that, this series of videos from the William J Perry Project is about as sobering:
 Nuclear Weapons and International Stability (YouTube playlist)</description>
-            <content type="html"><![CDATA[<p>I recommend reading Eric Schlosser&rsquo;s <em>Command and Control</em>, but if you don&rsquo;t have time for that, this series of videos from the William J Perry Project is about as sobering:</p>
-<p><a href="https://www.youtube.com/watch?v=ynHgWAw8Pb0&amp;list=PL_nfpF2TLsIz720ON8q7JPDHquZmJdVSB">Nuclear Weapons and International Stability (YouTube playlist)</a></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Robot Vaccuums</title>
-            <link>https://bavis.org/posts/roomba/</link>
-            <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://bavis.org/posts/roomba/</guid>
-            <description>Getting a robot vacuum a few years ago was a game-changer for me. It&amp;rsquo;s not quite as big of a change as, say, getting a dishwasher would be, but it&amp;rsquo;s hard to understate how nice it is to not have to worry about day-to-day &amp;ldquo;maintenance&amp;rdquo; vacuuming.
+    </item>
+    
+    <item>
+      <title>Robot Vaccuums</title>
+      <link>https://bavis.org/posts/roomba/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bavis.org/posts/roomba/</guid>
+      <description>Getting a robot vacuum a few years ago was a game-changer for me. It&amp;rsquo;s not quite as big of a change as, say, getting a dishwasher would be, but it&amp;rsquo;s hard to understate how nice it is to not have to worry about day-to-day &amp;ldquo;maintenance&amp;rdquo; vacuuming.
 I&amp;rsquo;d been fairly satisfied with the Ecovacs Deebot for a few years. I think it was a Wirecutter top pick at one point. That said, it really only seemed to work well for cleaning single rooms in one go.</description>
-            <content type="html"><![CDATA[<p>Getting a robot vacuum a few years ago was a game-changer for me. It&rsquo;s not quite as big of a change as, say, getting a dishwasher would be, but it&rsquo;s hard to understate how nice it is to not have to worry about day-to-day &ldquo;maintenance&rdquo; vacuuming.</p>
-<p>I&rsquo;d been fairly satisfied with the Ecovacs Deebot for a few years. I think it was a Wirecutter top pick at one point. That said, it really only seemed to work well for cleaning single rooms in one go. With moderately complex floorplans, it has a tendency to get stuck in smaller rooms/spaces or otherwise need a lot of handholding to clean the right spaces. I got tired of needing to move it around, start it in different rooms, etc to get it to clean the whole main floor of my house.</p>
-<p>For context: this main floor has a mostly-open living/kitchen/dining area and a long hallway with smaller rooms branching off of it. The hallway was especially difficult for the Deebot to navigate; the chances that it would stumble into one of the branch rooms on its own were pretty small.</p>
-<p>It also had a habit of getting stuck under the couch. I (mostly) fixed that by putting some screws into the front bumper of the vacuum. They keep it from being able to go too far under the couch, and give it some Mad Max aesthetic.</p>
-<p>Still, you can&rsquo;t do too much to fix random bump-and-run pathfinding, so I replaced the Deebot with a Roomba i7. The i7 maps your home and cleans in a systematic line-by-line way that is more satisfying to watch than random bump-and-run navigation. It also has a &ldquo;clean base&rdquo; that sucks the stuff in the vacuum&rsquo;s dustbin and into a bag.</p>
-<h2 id="pros">Pros</h2>
-<ul>
-<li>&ldquo;Clean base&rdquo; means you need to empty the dirt once every&hellip; few months? This obviously depends on how much dirt and dust you give the thing to pick up, but even with a pet (cat) it seems like emptying it is a rare event.</li>
-<li>Home mapping lets you assign it to clean or not clean certain rooms</li>
-<li>Pathfinding is excellent. I&rsquo;ve only had it get stuck/lost once or twice after several months of use.</li>
-<li>The brushes are shockingly easy to clean, so when it inevitably clogs up with hair it&rsquo;s not too annoying to fix.</li>
-<li>The dustbin can be rinsed out with water pretty easily, if you remove the filter first.</li>
-<li>Overall cleaning performance is pretty good, despite only having one side brush. I expected it to struggle to keep the perimeter of rooms clean, but in practice it seems to be a pretty good job.</li>
-</ul>
-<h2 id="cons">Cons</h2>
-<ul>
-<li>The home mapping functionality (and the app you use for controlling the robot) depends on iRobot&rsquo;s cloud services. Who knows how well the robot will work (or if it will work at all) when the service shuts down or the i7 stops being supported? iRobot has a better track record than most IoT companies, but I still don&rsquo;t like this limitation.</li>
-<li>The bags are proprietary and expensive. This isn&rsquo;t too bad since you don&rsquo;t need to change them very often, but it&rsquo;s still a downside. Knockoffs are available on Amazon; reviews report problems with size/compatibility to the bag slot, but it&rsquo;s inconsistent.</li>
-<li>I occasionally need to force-quit the iRobot app to get it to establish a connection to the i7.</li>
-</ul>
-<h2 id="conclusion">Conclusion</h2>
-<p>If you can afford it, buy one (or two). It isn&rsquo;t perfect, but ok-ish vacuuming that I don&rsquo;t have to think about is way better than not vacuuming often enough. I wish iRobot made lawn mowers.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Seinquest</title>
-            <link>https://bavis.org/posts/seinquest/</link>
-            <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://bavis.org/posts/seinquest/</guid>
-            <description>I really enjoy the Seinfeld2000 twitter account:
+    </item>
+    
+    <item>
+      <title>Seinquest</title>
+      <link>https://bavis.org/posts/seinquest/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bavis.org/posts/seinquest/</guid>
+      <description>I really enjoy the Seinfeld2000 twitter account:
 THE MATRIX (1999) pic.twitter.com/zmU5XIFu7G
 &amp;mdash; Seinfeld Current Day (@Seinfeld2000) September 9, 2021  A few years ago, the guy behind the account put together a hillarious 13-minute audiovisual &amp;ldquo;experience&amp;rdquo; inviting you to meditate on what Seinfeld would be like if it was on TV today. It makes me sad that the original site is offline, but someone uploaded it to YouTube for posterity:</description>
-            <content type="html"><![CDATA[<p>I really enjoy the Seinfeld2000 twitter account:</p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">THE MATRIX (1999) <a href="https://t.co/zmU5XIFu7G">pic.twitter.com/zmU5XIFu7G</a></p>&mdash; Seinfeld Current Day (@Seinfeld2000) <a href="https://twitter.com/Seinfeld2000/status/1435976974392979470?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p>A few years ago, the guy behind the account put together a hillarious 13-minute audiovisual &ldquo;experience&rdquo; inviting you to meditate on what Seinfeld would be like if it was on TV today. It makes me sad that the original site is offline, but someone uploaded it to YouTube for posterity:</p>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/oQuc2708V8U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-]]></content>
-        </item>
-        
-    </channel>
+    </item>
+    
+  </channel>
 </rss>

@@ -1,5 +1,5 @@
 ---
-title: 'Kyle Bavis'
+
 ---
 
 I'm a Baltimore expat living in Indiana.

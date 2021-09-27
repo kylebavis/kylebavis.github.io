@@ -4,3 +4,16 @@
 [submodule "themes/hugo-theme-hello-friend-ng"]
 	path = themes/hugo-theme-hello-friend-ng
 	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "themes/hugo-theme-terminal"]
+	path = themes/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/hugo-theme-iris"]
+	path = themes/hugo-theme-iris
+	url = https://github.com/peaceiris/hugo-theme-iris.git
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable

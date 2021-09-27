@@ -1,6 +1,5 @@
 ---
 title: 'Nuclear Weapons and International Stability'
-url: 'perry-nuclear-weapons'
 layout: single
 date: 2021-09-26
 ---

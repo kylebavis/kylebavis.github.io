@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Baltimore expat living in Indiana.
+I'm a Baltimore expat living in Upstate New York.
 
 ## Internet Presence
 

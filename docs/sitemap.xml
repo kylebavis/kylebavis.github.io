@@ -1,44 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-      <url>
-            <loc>https://bavis.org/</loc>
-            <lastmod>2021-09-26T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://bavis.org/posts/</loc>
-            <lastmod>2021-09-26T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://bavis.org/posts/nuclear-weapons/</loc>
-            <lastmod>2021-09-26T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://bavis.org/posts/roomba/</loc>
-            <lastmod>2021-09-26T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://bavis.org/posts/seinquest/</loc>
-            <lastmod>2021-09-26T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
+  <url>
+    <loc>https://bavis.org/</loc>
+  </url><url>
+    <loc>https://bavis.org/posts/</loc>
+  </url><url>
+    <loc>https://bavis.org/categories/</loc>
+  </url><url>
+    <loc>https://bavis.org/tags/</loc>
+  </url>
 </urlset>

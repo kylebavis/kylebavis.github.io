@@ -4,7 +4,8 @@
     <title>Categories on Kyle Bavis</title>
     <link>https://bavis.org/categories/</link>
     <description>Recent content in Categories on Kyle Bavis</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://bavis.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://bavis.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
